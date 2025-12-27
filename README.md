@@ -17,4 +17,4 @@ I enjoy working with data, simulations, and mathematical models.
   
 
 ## Contact
-- GitHub: https://github.com/TribhubaneshwarDas
+- GitHub: https://github.com/tribhubaneshward
